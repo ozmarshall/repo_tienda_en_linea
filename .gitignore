@@ -3,5 +3,6 @@ __pycache__/
 .env
 *.jpg
 *.jpeg
-*.png}
+*.png
 *.gif
+node_modules/
